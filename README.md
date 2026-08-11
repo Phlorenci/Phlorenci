@@ -37,3 +37,9 @@ I enjoy using and working on:
 - IBM SkillsBuild — Cybersecurity Fundamentals
 
 _([View credentials on Credly](https://www.credly.com/users/bobur-mirzarakhimov))_
+
+## Hobbies
+
+- ♟️ Chess
+- 🎹 Music production (FL Studio)
+- 🎬 Video editing (After Effects, Blender)
