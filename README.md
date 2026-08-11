@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Phlorenci/Phlorenci/main/banner.svg" alt="terminal banner" width="100%">
+
 # About me
 
 Hi, I'm Bobur!
@@ -40,6 +42,6 @@ _([View credentials on Credly](https://www.credly.com/users/bobur-mirzarakhimov)
 
 ## Hobbies
 
-- ♟️ Chess
+- ♟️ Chess (wanna play with me? --> https://www.chess.com/member/phlorenci)
 - 🎹 Music production (FL Studio)
 - 🎬 Video editing (After Effects, Blender)
