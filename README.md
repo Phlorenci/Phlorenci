@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Phlorenci/Phlorenci/main/banner.svg" alt="terminal banner" width="100%">
+<img src="https://raw.githubusercontent.com/Phlorenci/Phlorenci/main/banner_v2.svg" alt="terminal banner" width="100%">
 
 # About me
 
