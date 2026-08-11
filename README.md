@@ -25,15 +25,17 @@ I enjoy using and working on:
 
 - Linux
 - Python
+- JavaScript
+- React
+- Next.js
 - C
 - Git
-- Computer Networks
-- Cybersecurity fundamentals & systems security
 - SQL
+- MATLAB
 
 ## Certifications
 
 - Cisco Networking Academy — Introduction to Cybersecurity
-- Cisco Networking Academy — Cybersecurity Fundamentals
+- IBM SkillsBuild — Cybersecurity Fundamentals
 
 _([View credentials on Credly](https://www.credly.com/users/bobur-mirzarakhimov))_
